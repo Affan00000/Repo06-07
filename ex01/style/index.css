@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+#title {
+    text-align:center;
+    color: orangered;
+}
+figcaption {
+    margin-left: 5% ;
+    color:skyblue ;
+    
+}
+.caption {
+    
+    font-size: smaller;
+}
+
